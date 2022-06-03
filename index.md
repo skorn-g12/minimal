@@ -1,6 +1,6 @@
 
 
-# Reinforcement Learning :
+# Reinforcement Learning 
 
 A repo that has implementations of starter RL algorithms and problems. All code written from scratch. Implemented Dynamic Programming, Monte Carlo, SARSA and Q-learning for a 3x4 Grid World problem.
 
